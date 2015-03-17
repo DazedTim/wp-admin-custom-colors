@@ -2,6 +2,9 @@
  * Button mixin- creates 3d-ish button effect with correct
  * highlights/shadows, based on a base color.
  */
+ 
+/* CUSTOM COLOURS: #8c0e05, #BA2E24, #015130, #FFFFF0 */
+ 
 html {
   background: #f1f1f1; }
 
